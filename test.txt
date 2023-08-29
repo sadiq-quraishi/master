@@ -1,2 +1,6 @@
 Hello from Git, new version
 modified in development branch
+1.
+2.
+3.
+4.
